@@ -2,7 +2,7 @@ import json
 import requests
 import io
 
-jwtToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOVVJyNjBBTFNwMlV6Q1hFWjRVNUlnIiwiZXhwIjoxNTg1OTU2MjQwfQ.HDtlzpSiDY6TWMoM3Qtzkj09oCVNarpasqQPM0_Dwo4"
+jwtToken = ""
 
 if __name__ == "__main__":
 	main()

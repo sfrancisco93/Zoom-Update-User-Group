@@ -21,4 +21,4 @@ python main.py
 ```
 
 # Additional Notes
-Please note that this is only sample code and has been tested in small groups. Bug fixes will be added periodically.
+Please use this at your own risk. Note that this is only sample code and has been tested in small batches. I am not responsible for any data loss or unexpected results due to the execution of this script. Bug fixes will be added periodically.
